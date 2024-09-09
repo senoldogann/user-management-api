@@ -8,7 +8,7 @@ This is a simple RESTful API for managing users, built with Node.js and Express.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/senoldogann/user-management-api
 cd my-api
 npm install
 node server.js
